@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/mr-wh1tehat/botkaca-fix",
-    "repository": "https://github.com/mr-wh1tehat/botkaca-fix",
+    "website": "https://github.com/mlbtheroku/Botkaca-Fix",
+    "repository": "https://github.com/mlbtheroku/Botkaca-Fix",
     "stack": "container",
     "formation": {
       "worker": {
